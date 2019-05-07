@@ -77,15 +77,9 @@ Programmet ska fråga efter vilken fil som ska användas.
 
 Därefter skriver programmet ut varje rad i filen (omvandlad till celcius) och slutligen medeltemperaturen för månaden ( i celsius)
 
-```
-ruby temperatures.rb
-#=> 21.5
-#=> 18.3
-#=> 22.7
-#=> ...
-#=> Average temperature: 21.3
-```
-#### Dataformat ####
+![0.gif](./0.gif)
+
+#### Dataformat
 
 * Datafilen består av en *rad* text per dag
 * Varje rad innehåller den uppmätta medeltemperaturen för dagen, i fahrenheit.
